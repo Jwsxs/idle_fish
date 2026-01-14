@@ -18,5 +18,6 @@ e então:
 > - por questão de segurança (sua), compilar primeiro é o ideal
 
 ## info
-a pasta `./docs` contém um vídeo mostrando a execução do código
-foi gravado usando [OBS](https://obsproject.com/pt-br) na distro Mint
+a pasta `./docs` contém um vídeo mostrando a execução do código<br>
+foi gravado usando [OBS](https://obsproject.com/pt-br) na distro Mint<br><br>
+intencionalmente gravado com o intuito de ser engraçado, foi usado como documentação
