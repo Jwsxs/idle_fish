@@ -18,6 +18,7 @@ e então:
 > - por questão de segurança (sua), compilar primeiro é o ideal
 
 ## info
+no terminal é mostrado a quantia ganha, e na janela o peixe nadando<br><br>
 a pasta `./docs` contém um vídeo mostrando a execução do código<br>
 foi gravado usando [OBS](https://obsproject.com/pt-br) na distro Mint<br><br>
 intencionalmente gravado com o intuito de ser engraçado, foi usado como documentação
